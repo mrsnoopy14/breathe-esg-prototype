@@ -5,10 +5,12 @@ A Django REST + React prototype for ingesting, normalizing, and reviewing carbon
 ## Demo credentials
 
 ```
-URL: https://breathe-esg-frontend.onrender.com
+URL: https://breathe-esg-prototype-six.vercel.app
 Admin:   admin / demo1234
 Analyst: analyst / demo1234
 ```
+
+> Note: Backend is on Render free tier — first request may take ~50 seconds to wake up.
 
 ## Sample data files
 
@@ -51,7 +53,7 @@ App runs at http://localhost:5173
 
 - **Backend:** Django 5.1 + Django REST Framework, token authentication, PostgreSQL
 - **Frontend:** React 18 + Vite + Tailwind CSS
-- **Deployment:** Render (backend web service + static site + managed PostgreSQL)
+- **Deployment:** Backend on Render (free tier), Frontend on Vercel
 
 ## Documentation
 
