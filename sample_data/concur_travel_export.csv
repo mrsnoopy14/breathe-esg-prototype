@@ -1,0 +1,34 @@
+Report Name,Report ID,Employee Name,Employee ID,Transaction Date,Expense Type,Vendor Name,City From,City To,Amount,Currency,Quantity,Unit
+Q1 2024 Travel - R. Sharma,RPT-20240115-001,Rahul Sharma,EMP-1042,2024-01-08,Air,IndiGo Airlines,BOM,DEL,8450.00,INR,,
+Q1 2024 Travel - R. Sharma,RPT-20240115-001,Rahul Sharma,EMP-1042,2024-01-08,Hotel,Marriott New Delhi,,,5800.00,INR,2,room_nights
+Q1 2024 Travel - R. Sharma,RPT-20240115-001,Rahul Sharma,EMP-1042,2024-01-08,Taxi,Uber,,,780.00,INR,32,km
+Q1 2024 Travel - R. Sharma,RPT-20240115-001,Rahul Sharma,EMP-1042,2024-01-10,Air,IndiGo Airlines,DEL,BOM,8200.00,INR,,
+Q1 2024 Travel - P. Mehta,RPT-20240118-002,Priya Mehta,EMP-2087,2024-01-15,Air,Air India,BOM,LHR,52000.00,INR,,
+Q1 2024 Travel - P. Mehta,RPT-20240118-002,Priya Mehta,EMP-2087,2024-01-15,Hotel,Hilton London Heathrow,,,18500.00,INR,3,room_nights
+Q1 2024 Travel - P. Mehta,RPT-20240118-002,Priya Mehta,EMP-2087,2024-01-15,Taxi,Black Cab London,,,4200.00,INR,28,km
+Q1 2024 Travel - P. Mehta,RPT-20240118-002,Priya Mehta,EMP-2087,2024-01-18,Air,Air India,LHR,BOM,49500.00,INR,,
+Q1 2024 Travel - A. Kumar,RPT-20240122-003,Amit Kumar,EMP-1156,2024-01-20,Air,Vistara,DEL,BLR,6800.00,INR,,
+Q1 2024 Travel - A. Kumar,RPT-20240122-003,Amit Kumar,EMP-1156,2024-01-20,Hotel,Taj West End Bangalore,,,7200.00,INR,1,room_nights
+Q1 2024 Travel - A. Kumar,RPT-20240122-003,Amit Kumar,EMP-1156,2024-01-20,Car Rental,Zoomcar,,,3600.00,INR,180,km
+Q1 2024 Travel - A. Kumar,RPT-20240122-003,Amit Kumar,EMP-1156,2024-01-22,Air,Vistara,BLR,DEL,6500.00,INR,,
+Feb 2024 Travel - S. Gupta,RPT-20240205-004,Sonia Gupta,EMP-3021,2024-02-05,Air,Emirates,BOM,DXB,24500.00,INR,,
+Feb 2024 Travel - S. Gupta,RPT-20240205-004,Sonia Gupta,EMP-3021,2024-02-05,Air,Emirates,DXB,JFK,38000.00,INR,,
+Feb 2024 Travel - S. Gupta,RPT-20240205-004,Sonia Gupta,EMP-3021,2024-02-05,Hotel,Marriott Times Square,,,42000.00,INR,4,room_nights
+Feb 2024 Travel - S. Gupta,RPT-20240205-004,Sonia Gupta,EMP-3021,2024-02-05,Taxi,NYC Yellow Cab,,,2800.00,INR,45,km
+Feb 2024 Travel - S. Gupta,RPT-20240205-004,Sonia Gupta,EMP-3021,2024-02-09,Air,Emirates,JFK,DXB,37500.00,INR,,
+Feb 2024 Travel - S. Gupta,RPT-20240205-004,Sonia Gupta,EMP-3021,2024-02-09,Air,Emirates,DXB,BOM,22800.00,INR,,
+Feb 2024 Travel - V. Singh,RPT-20240212-005,Vikram Singh,EMP-1334,2024-02-12,Air,IndiGo Airlines,HYD,BOM,5200.00,INR,,
+Feb 2024 Travel - V. Singh,RPT-20240212-005,Vikram Singh,EMP-1334,2024-02-12,Hotel,Four Seasons Mumbai,,,9500.00,INR,2,room_nights
+Feb 2024 Travel - V. Singh,RPT-20240212-005,Vikram Singh,EMP-1334,2024-02-12,Taxi,Ola,,,650.00,INR,25,km
+Feb 2024 Travel - V. Singh,RPT-20240212-005,Vikram Singh,EMP-1334,2024-02-14,Air,IndiGo Airlines,BOM,HYD,4900.00,INR,,
+Mar 2024 Travel - R. Sharma,RPT-20240305-006,Rahul Sharma,EMP-1042,2024-03-04,Air,Air India,BOM,SIN,32000.00,INR,,
+Mar 2024 Travel - R. Sharma,RPT-20240305-006,Rahul Sharma,EMP-1042,2024-03-04,Hotel,Marina Bay Sands,,,28500.00,INR,3,room_nights
+Mar 2024 Travel - R. Sharma,RPT-20240305-006,Rahul Sharma,EMP-1042,2024-03-04,Taxi,Grab Singapore,,,1850.00,INR,35,km
+Mar 2024 Travel - R. Sharma,RPT-20240305-006,Rahul Sharma,EMP-1042,2024-03-07,Air,Air India,SIN,BOM,31500.00,INR,,
+Mar 2024 Travel - P. Mehta,RPT-20240318-007,Priya Mehta,EMP-2087,2024-03-15,Air,Lufthansa,BOM,FRA,45000.00,INR,,
+Mar 2024 Travel - P. Mehta,RPT-20240318-007,Priya Mehta,EMP-2087,2024-03-15,Hotel,Marriott Frankfurt,,,22000.00,INR,2,room_nights
+Mar 2024 Travel - P. Mehta,RPT-20240318-007,Priya Mehta,EMP-2087,2024-03-15,Rail,Deutsche Bahn ICE,FRA,MUC,3200.00,INR,304,km
+Mar 2024 Travel - P. Mehta,RPT-20240318-007,Priya Mehta,EMP-2087,2024-03-17,Air,Lufthansa,MUC,BOM,42000.00,INR,,
+Mar 2024 Travel - A. Kumar,RPT-20240322-008,Amit Kumar,EMP-1156,2024-03-20,Air,SpiceJet,DEL,CCU,4100.00,INR,,
+Mar 2024 Travel - A. Kumar,RPT-20240322-008,Amit Kumar,EMP-1156,2024-03-20,Hotel,ITC Sonar,,,6800.00,INR,2,room_nights
+Mar 2024 Travel - A. Kumar,RPT-20240322-008,Amit Kumar,EMP-1156,2024-03-22,Air,SpiceJet,CCU,DEL,3950.00,INR,,
